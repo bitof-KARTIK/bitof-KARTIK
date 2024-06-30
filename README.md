@@ -1,33 +1,15 @@
-🏄‍♂️ Kartik Shah
-Full-Stack Developer
+# 💫 About Me:
+I am a dedicated full-stack developer in my fourth year of college, specializing in MERN. With a passion for creating captivating user interfaces and exploring innovative back-end solutions, I am committed to continuous learning and strive to contribute to impactful projects. 
 
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/018/384/631/original/john-baker-swordcape-big.gif?1559163620">
-I'm an indie full-stack developer with a passion for front-end development. In my third year of college, skilled in HTML, CSS, and JavaScript. Eager to create captivating user interfaces and explore back-end technologies. Committed to continuous learning and contributing to impactful projects. Enjoys nature and spending time with loved ones.
 
-🧰 Languages and Tools
-<p align="left">
-  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
-  <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
-<br clear="left"/>
-<details>
-  <summary><h3>👨‍💻 Coding Journey</h3></summary>
-  My coding journey has been an exciting and progressive one. During my first year of college, I immersed myself in the world of C programming and delved into the intricacies of Data Structures and Algorithms (DSA). These fundamental concepts laid a strong foundation for my coding skills.
-In my second year, I decided to explore the vast realm of web development. I dived into HTML, CSS, and JavaScript, learning to craft beautiful and interactive websites. It was exhilarating to witness my designs come to life on the web.
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ByteeBard) 
 
-Currently, I am deeply engrossed in mastering React, a powerful JavaScript library. The ability to build dynamic and efficient user interfaces has truly captured my interest. With each passing day, I grow more proficient and excited about the possibilities React offers.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bitof-KARTIK&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bitof-KARTIK&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitof-KARTIK&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-As I progress on my coding journey, I am eager to embrace new challenges and expand my knowledge in the world of technology. I find immense satisfaction in learning, creating, and problem-solving, and I can't wait to see where my coding adventure takes me next.
-
-</details>
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bitof-KARTIK&icon=0&color=0" alt="Profile Views"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
